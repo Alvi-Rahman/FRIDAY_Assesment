@@ -1,6 +1,6 @@
-# Address Parser (FRIDAY Assesment)
+# Addressline (FRIDAY Assesment)
 
-The Address Parser Project is a Python-based solution that parses and splits address strings to extract street names
+The Addressline Project is a Python-based solution that parses and splits address strings to extract street names
 and house numbers. The project consists of several modules and classes that work together to provide address parsing
 and splitting functionalities.
 
