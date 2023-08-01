@@ -91,6 +91,12 @@ To run the test cases for the Address Parser Project, use the testing framework 
 pytest tests/test_controller.py
 ```
 
+`Or` Just Write
+
+```shell
+pytest
+```
+
 The test cases will ensure that the address parsing and splitting functionalities work as expected.
 
 # Thank You!
